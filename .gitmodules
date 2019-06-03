@@ -1,0 +1,4 @@
+[submodule "xmarts/Laundry_management"]
+	path = xmarts/Laundry_management
+	url = git@github.com:xmarts/Laundry_management.git
+	branch = master
