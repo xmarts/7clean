@@ -10,3 +10,6 @@
 	path = viernes/xmarts_pos_invoice
 	url = git@github.com:viernes/xmarts_pos_invoice.git
 	branch = v12
+[submodule "log_check"]
+	path = log_check
+	url = git@github.com:William954/log_check.git
