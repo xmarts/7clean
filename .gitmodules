@@ -5,3 +5,6 @@
 [submodule "pos_retail"]
 	path = pos_retail
 	url = git@github.com:viernes/pos_retail.git
+[submodule "log_check"]
+	path = log_check
+	url = https://github.com/William954/log_check.git
