@@ -2,10 +2,6 @@
 	path = xmarts/Laundry_management
 	url = git@github.com:xmarts/Laundry_management.git
 	branch = master
-[submodule "pos_retail"]
-	path = pos_retail
-	url = git@github.com:viernes/pos_retail.git
-
 [submodule "viernes/xmarts_pos_invoice"]
 	path = viernes/xmarts_pos_invoice
 	url = git@github.com:viernes/xmarts_pos_invoice.git
