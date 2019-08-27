@@ -12,3 +12,6 @@
 [submodule "pos_retail"]
 	path = pos_retail
 	url = git@github.com:viernes/pos_retail.git
+[submodule "pos_sales_comission"]
+	path = pos_sales_comission
+	url = git@github.com:viernes/pos_sales_comission.git
