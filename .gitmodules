@@ -15,3 +15,6 @@
 [submodule "pos_sales_comission"]
 	path = pos_sales_comission
 	url = git@github.com:viernes/pos_sales_comission.git
+[submodule "ninja_dashboard"]
+	path = ninja_dashboard
+	url = https://github.com/viernes/ninja_dashboard.git
