@@ -18,3 +18,6 @@
 [submodule "xmarts_pos_contador"]
 	path = xmarts_pos_contador
 	url = https://github.com/xmarts/xmarts_pos_contador.git
+[submodule "pos_retail"]
+	path = pos_retail
+	url = git@github.com:viernes/pos_retail.git
