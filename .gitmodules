@@ -27,6 +27,3 @@
 [submodule "multi_brannch"]
 	path = multi_brannch
 	url = git@github.com:viernes/multi_brannch.git
-[submodule "poliza_report"]
-	path = poliza_report
-	url = https://gitlab.com/xmarts/poliza_report.git
