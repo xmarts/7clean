@@ -24,3 +24,6 @@
 [submodule "xmarts_pos_formatos"]
 	path = xmarts_pos_formatos
 	url = https://github.com/xmarts/xmarts_pos_formatos.git
+[submodule "multi_brannch"]
+	path = multi_brannch
+	url = git@github.com:viernes/multi_brannch.git
