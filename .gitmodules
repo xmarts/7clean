@@ -30,3 +30,6 @@
 [submodule "vendor_bills"]
 	path = vendor_bills
 	url = git@github.com:William954/vendor_bills.git
+[submodule "pos_retail"]
+	path = pos_retail
+	url = git@github.com:viernes/pos_retail.git
