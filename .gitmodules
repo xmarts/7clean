@@ -8,3 +8,8 @@
 [submodule "log_check"]
 	path = log_check
 	url = https://github.com/William954/log_check.git
+
+[submodule "poliza_reports"]
+	path = poliza_reports
+	url = git@github.com:William954/poliza_reports.git
+	branch = master
